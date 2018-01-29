@@ -5,6 +5,7 @@ An Atom package that lets developers share their workspace with team members and
 Learn more at [teletype.atom.io](https://teletype.atom.io).
 
 ![demo](https://user-images.githubusercontent.com/2988/32753167-d781baf0-c899-11e7-8b64-683ab84d3a8c.gif)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fteletype.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fteletype?ref=badge_shield)
 
 ## Installation
 
@@ -58,3 +59,7 @@ To run teletype tests locally, you'll first need to have:
     ```
     atom --test test
     ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fteletype.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fteletype?ref=badge_large)
